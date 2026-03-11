@@ -23,14 +23,14 @@ Deep Research Agent is a **Python MCP server** that automates the full research 
 
 ## ✨ Features
 
-- 🔎 **Multi-angle web search** — 3 query variations per topic for broader coverage
-- 🌐 **Async URL fetching** — parallel page retrieval with smart HTML cleaning
-- 🧹 **Text denoising** — strips HTML entities, SVG labels, nav boilerplate, repeated patterns
-- 🧠 **Semantic clustering** — pure-Python TF-IDF + K-Means, zero ML framework required
-- 🏷️ **Auto cluster labeling** — 13 topic categories (Quantum, Biotech, Climate, AI, Policy...)
-- 📄 **Structured reports** — markdown or JSON output with sources, keywords, evidence
-- ⬇️ **One-click download** — export `.md` report directly from the UI
-- ⚡ **Fast** — full pipeline typically completes in 6–12 seconds
+- 🔎 **Multi-angle web search**: 3 query variations per topic for broader coverage
+- 🌐 **Async URL fetching**: parallel page retrieval with smart HTML cleaning
+- 🧹 **Text denoising**: strips HTML entities, SVG labels, nav boilerplate, repeated patterns
+- 🧠 **Semantic clustering**: pure-Python TF-IDF + K-Means, zero ML framework required
+- 🏷️ **Auto cluster labeling**: 13 topic categories (Quantum, Biotech, Climate, AI, Policy...)
+- 📄 **Structured reports**: markdown or JSON output with sources, keywords, evidence
+- ⬇️ **One-click download**: export `.md` report directly from the UI
+- ⚡ **Fast**: full pipeline typically completes in 6–12 seconds
 
 ---
 
